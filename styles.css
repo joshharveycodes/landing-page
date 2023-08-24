@@ -1,0 +1,15 @@
+
+.nav {
+
+    display: flex;
+    background: grey;
+}
+
+.container {
+
+    background: grey;
+    padding: 16px;
+    border: 4px solid grey;
+    display: flex;
+
+}
